@@ -1,5 +1,5 @@
 # domainWhisper
-> Get the lastest domains registred from whoisds database (Python3 based)
+> Domain squatting with the latest domains registred worldwide using the whoisds database (Python3 based)
 
 
 ## Instalation
