@@ -1,0 +1,6 @@
+pyfiglet
+bs4
+requests
+telegram
+python-telegram-bot
+zipfile36
